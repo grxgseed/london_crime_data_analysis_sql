@@ -33,6 +33,14 @@ The dataset was transformed from wide format into a structured table to enable t
 * SQLite
 * DB Browser for SQLite
 
+## Data Source
+
+The dataset used in this project is **"MPS Borough Level Crime (most recent 24 months)"**, obtained from the London Datastore.
+
+* Source: London Datastore
+* Data provider: Metropolitan Police Service (MPS)
+* The dataset contains borough-level crime counts across different categories and time periods.
+
 ## Files
 
 * `analysis.sql` – SQL queries and insights
